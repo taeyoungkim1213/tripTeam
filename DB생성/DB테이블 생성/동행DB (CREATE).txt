@@ -1,0 +1,71 @@
+create table accompany_comment
+(
+    accompanyCommentNo      int auto_increment
+        primary key,
+    accompanyNo             int                      not null,
+    accompanyCommentWriter  varchar(50)              not null,
+    accompanyCommentContent varchar(500)             not null,
+    accompanyCommentRegDate datetime default (now()) not null
+);
+
+
+
+create table accompany_connection
+(
+    accompanyConnectionNo int auto_increment
+        primary key,
+    accompanyNo           int                         not null,
+    accompanyTitle        varchar(255)                not null,
+    accompanyWriter       varchar(50)                 not null,
+    accompanyPickApyUser  varchar(50) default (now()) not null,
+    accompanyYN           tinyint(1)  default 0       not null
+);
+
+
+
+create table accompany_like
+(
+    accompanyLikeNo   int auto_increment
+        primary key,
+    accompanyNo       int         null,
+    accompanyLikeUser varchar(50) null
+);
+
+
+
+
+create table accompany_main
+(
+    accompanyNo            int auto_increment
+        primary key,
+    accompanyWriter        varchar(50)                        null,
+    accompanyTitle         varchar(255)                       not null,
+    accompanyImg           varchar(100)                       null,
+    accompanyContent       text                               not null,
+    accompanyRecruit       int      default 0                 null,
+    accompanyTripStartDate date                               null,
+    accompanyTripEndDate   date                               null,
+    accompanyArea          varchar(100)                       null,
+    accompanyRegDate       datetime default CURRENT_TIMESTAMP null,
+    accompanyLikeCnt       int      default 0                 null,
+    accompanyViewCnt       int      default 0                 null
+);
+
+
+
+
+create table accompany_pick
+(
+    accompanyPickNo      int auto_increment
+        primary key,
+    accompanyNo          int                                not null,
+    accompanyWriter      varchar(50)                        not null,
+    accompanyPickApyUser varchar(50)                        not null,
+    accompanyMessage     varchar(255)                       not null,
+    accompanyApyDate     datetime default CURRENT_TIMESTAMP null,
+    accompanyYN          tinyint(1)                         null
+);
+
+
+
+
