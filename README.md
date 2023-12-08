@@ -14,19 +14,24 @@
 
 ## :pushpin: 내가 맡은 기능 소개<br>
     -후기 게시판 , 마이페이지-
-<br>
-    1. -index 페이지-<br>
-    
-:   쿠키 이용하여 레이어 팝업 창 닫기 , <br>
-    헤더 부분 고정, <br>
-    주색 : #e30613,<br>
-    swiper 사용하여 메인 슬라이더 기능, <br>
-    스크롤탑 HOT DEAL에 닿으면  NEW ARRIVALS의 css rotate,<br>
-    스크롤탑 MD"S PICK에 닿으면  BANNER 사이드에서 튀어나옴.<br>
-    가로 사이즈1200px, 900px 750px  반응형 적용,<br>
-    750px 반응형시 메뉴바 사라지고 왼쪽상단에 햄버거 버튼으로 메뉴 활성화,<br>
-    상품이미지 클릭시 >상품주문 페이지로 이동<br>
-<br>
+<img src="./README_IMG/013.png">
+<img src="./README_IMG/014.png">
+<img src="./README_IMG/015.png">
+<img src="./README_IMG/016.png">
+<img src="./README_IMG/017.png">
+<img src="./README_IMG/018.png">
+<img src="./README_IMG/019.png">
+<img src="./README_IMG/020.png">
+<img src="./README_IMG/021.png">
+<img src="./README_IMG/022.png">
+<img src="./README_IMG/023.png">
+<img src="./README_IMG/024.png">
+<img src="./README_IMG/025.png">
+<img src="./README_IMG/026.png">
+<img src="./README_IMG/027.png">
+<img src="./README_IMG/028.png">
+
+
     2. -로그인 페이지-<br>
 :   아이디/비밀번호 입력시 submit,<br>
 <br>
