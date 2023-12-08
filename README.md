@@ -1,6 +1,7 @@
 # 김태영 BLUE HORIZON
-사용법 : DB생성 파일에서 테이블 CREATE , INSER 완료 후 실행 가능.
+
 <br>
+## :pushpin: 사용법 : DB생성 파일에서 CREATE , INSER 참고하여 실행.
 >BLUE HORIZON 홈페이지(팀 프로젝트)  <br>
 >개발 기간 : 23.11.14 ~ 23.11.29 (15일)<br>
 >  <br>
