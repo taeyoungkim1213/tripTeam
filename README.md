@@ -1,6 +1,5 @@
 # 김태영 BLUE HORIZON
-## :pushpin: Projects
- ###  [ABC MART](https://taeyoungkim1213.github.io/) pdf 바로보기
+
 <br>
 >BLUE HORIZON 홈페이지(팀 프로젝트)  
 >개발 기간 : 23.11.14 ~ 23.11.29 (15일)
@@ -8,6 +7,9 @@
 >기술 스택:  
 > HTML , CSS , jQuery , javaScript
 </br>
+
+## :pushpin: Projects
+ ###  [ABC MART](https://taeyoungkim1213.github.io/) pdf 바로보기
 
 ## :pushpin: 제가 맡은 기능 소개<br>
     -후기 게시판 , 마이페이지-
