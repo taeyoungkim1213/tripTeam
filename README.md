@@ -9,7 +9,7 @@
 </br>
 
 ## :pushpin: Projects
- ###  [ABC MART](https://taeyoungkim1213.github.io/) pdf 바로보기
+ ###  [BLUE HORIZON](https://taeyoungkim1213.github.io/) pdf 바로보기
 
 ## :pushpin: 제가 맡은 기능 소개<br>
     -후기 게시판 , 마이페이지-
