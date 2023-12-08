@@ -1,5 +1,5 @@
 # 김태영 BLUE HORIZON
-
+사용법 : DB생성 파일에서 테이블 CREATE , INSER 완료 후 실행 가능.
 <br>
 >BLUE HORIZON 홈페이지(팀 프로젝트)  <br>
 >개발 기간 : 23.11.14 ~ 23.11.29 (15일)<br>
@@ -10,8 +10,7 @@
 
 
 ## :pushpin: Projects
- ###  [BLUE HORIZON](https://drive.google.com/file/d/1Aqk8rdy-Go0vhdKua8hBnC3ZLcbxmKp8/view?usp=drive_link){:target="_blank"} pdf 바로보기
- [BLUE HORIZON](https://drive.google.com/file/d/1Aqk8rdy-Go0vhdKua8hBnC3ZLcbxmKp8/view?usp=drive_link){:target="_blank"}
+ ###  [BLUE HORIZON](https://drive.google.com/file/d/1Aqk8rdy-Go0vhdKua8hBnC3ZLcbxmKp8/view?usp=drive_link)pdf 바로보기
 
 ## :pushpin: 내가 맡은 기능 소개<br>
     -후기 게시판 , 마이페이지-
