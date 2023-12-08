@@ -9,7 +9,7 @@
 </br>
 
 ## :pushpin: Projects
- ###  [BLUE HORIZON](https://taeyoungkim1213.github.io/) pdf 바로보기
+ ###  [BLUE HORIZON](https://drive.google.com/file/d/1E7taE1oa5jNPn7YRB3ggXUig6ANRQWdc/view?usp=drive_link) pdf 바로보기
 
 ## :pushpin: 제가 맡은 기능 소개<br>
     -후기 게시판 , 마이페이지-
