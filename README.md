@@ -1,12 +1,12 @@
 # 김태영 BLUE HORIZON
 
 <br>
->BLUE HORIZON 홈페이지(팀 프로젝트)  
->개발 기간 : 23.11.14 ~ 23.11.29 (15일)
->  
->기술 스택:  
-> HTML , CSS , jQuery , javaScript
-</br>
+>BLUE HORIZON 홈페이지(팀 프로젝트)  <br>
+>개발 기간 : 23.11.14 ~ 23.11.29 (15일)<br>
+>  <br>
+>기술 스택:  <br>
+> HTML , CSS , jQuery , javaScript<br>
+
 
 ## :pushpin: Projects
  ###  [BLUE HORIZON](https://drive.google.com/file/d/1E7taE1oa5jNPn7YRB3ggXUig6ANRQWdc/view?usp=drive_link) pdf 바로보기
