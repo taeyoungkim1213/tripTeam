@@ -1,4 +1,4 @@
-# 김태영 BLUE HORIZON
+# BLUE HORIZON
 
 <br>
 :pushpin: 사용법 : DB생성 파일에서 CREATE , INSER 참고하여 실행.
